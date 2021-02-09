@@ -38,7 +38,7 @@ $ npm run release
 After Travis finishes building your app, open the release draft it created and click "Publish".
 -->
 ## Versions
-<a href="https://github.com/Charlie-Sumorok/Visual_Web_Electron">
+<a href="https://github.com/Charlie-Sumorok/Visual_Web_Electron" title="Electron">
 	<img
 		src="./images/electron.png"
 		alt="Electron Version"
