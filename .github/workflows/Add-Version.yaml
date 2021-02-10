@@ -14,6 +14,7 @@ on:
 
 jobs:
   add_icon:
+    name: Add icon
     runs-on: ubuntu-latest
     steps:
       - name: Add HTML
