@@ -38,11 +38,7 @@ $ npm run release
 After Travis finishes building your app, open the release draft it created and click "Publish".
 -->
 ## Versions
-<style>
-	:root {
-		background-color: #282C34;
-	}
-</style>
+
 <a
 	class="icon-link"
 	href="https://github.com/Charlie-Sumorok/Visual-Web-Electron"
