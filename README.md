@@ -38,35 +38,19 @@ $ npm run release
 After Travis finishes building your app, open the release draft it created and click "Publish".
 -->
 ## Versions
-<a
-	class="icon-link"
-	href="https://github.com/Charlie-Sumorok/Visual-Web-Electron"
-	title="Electron">
-	<div class="border">
-		<img
-			src="./images/Electron.png"
-			alt="Electron Version"
-			title="Electron"
-			class="icon">
-	</div>
-</a>
 <style>
 	:root {
 		background-color: #282C34;
 	}
-
-	.border {
-		width:  calc(2rem + 2px);
-		height: calc(2rem + 2px);
-		border-radius: 50%;
-		background-color: #fff;
-
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
-
-	.icon {
-		width: 2rem;
-	}
 </style>
+<a
+	class="icon-link"
+	href="https://github.com/Charlie-Sumorok/Visual-Web-Electron"
+	title="Electron">
+	<img
+		src="./images/Electron.png"
+		alt="Electron Version"
+		title="Electron"
+		width="50px"
+		height="50px">
+</a>
