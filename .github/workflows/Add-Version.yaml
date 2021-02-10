@@ -1,7 +1,7 @@
 name: Add Author
 
 on:
-  workflow-dispatch:
+  workflow_dispatch:
     inputs:
       framework:
         description: The framework being used for this version of the app
@@ -16,7 +16,8 @@ jobs:
   add_icon:
     runs-on: ubuntu-latest
     steps:
-      - run: |
+      - name: Add HTML
+        run: |
           echo "
 
           <a href="${{ github.event.inputs.link }}" title="${{ github.event.inputs.framework }}">
