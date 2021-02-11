@@ -40,7 +40,6 @@ After Travis finishes building your app, open the release draft it created and c
 ## Versions
 
 <a
-	class="icon-link"
 	href="https://github.com/Charlie-Sumorok/Visual-Web-Electron"
 	title="Electron">
 	<img
