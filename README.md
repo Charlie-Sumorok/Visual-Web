@@ -1,7 +1,7 @@
 [![Electron-Ci][Electron-Ci-badge]][Electron-Ci-workflow]
 
-[Electron-Ci-badge]: https://github.com/Charlie-Sumorok/Visual_Web_Electron/workflows/Electron-CI/badge.svg
-[Electron-Ci-workflow]: https://github.com/Charlie-Sumorok/Visual_Web_Electron/actions?query=workflow%3AElectron-CI
+[Electron-Ci-badge]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/Ci.yml/badge.svg
+[Electron-Ci-workflow]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/Ci.yml
 
 # Visual Web
 
