@@ -46,42 +46,17 @@ After Travis finishes building your app, open the release draft it created and c
 			<img class="icon"
 				src="./images/Electron.png"
 				alt="Electron Version"
-				title="Electron"
 				width="50px"
 				height="50px">
 		</a>
 		<a class="author"
 			href="https://github.com/Charlie-Sumorok"
 			title="Charlie">
-			<img class="author icon"
-				src="https://github.com/Charlie-Sumorok.png" alt="">
-		</a>
-	</div>
-	<div class="version">
-		<a class="version-icon" href="https://github.com/Charlie-Sumorok/Visual-Web-Electron" title="Electron">
-			<img class="icon" src="./images/Electron.png" alt="Electron Version" title="Electron" width="50px"
+			<img class="author"
+				src="https://github.com/Charlie-Sumorok.png"
+				alt="Charlie"
+				width="50px"
 				height="50px">
-		</a>
-		<a class="author" href="https://github.com/Charlie-Sumorok" title="Charlie">
-			<img class="author icon" src="https://github.com/Charlie-Sumorok.png" alt="">
-		</a>
-	</div>
-	<div class="version">
-		<a class="version-icon" href="https://github.com/Charlie-Sumorok/Visual-Web-Electron" title="Electron">
-			<img class="icon" src="./images/Electron.png" alt="Electron Version" title="Electron" width="50px"
-				height="50px">
-		</a>
-		<a class="author" href="https://github.com/Charlie-Sumorok" title="Charlie">
-			<img class="author icon" src="https://github.com/Charlie-Sumorok.png" alt="">
-		</a>
-	</div>
-	<div class="version">
-		<a class="version-icon" href="https://github.com/Charlie-Sumorok/Visual-Web-Electron" title="Electron">
-			<img class="icon" src="./images/Electron.png" alt="Electron Version" title="Electron" width="50px"
-				height="50px">
-		</a>
-		<a class="author" href="https://github.com/Charlie-Sumorok" title="Charlie">
-			<img class="author icon" src="https://github.com/Charlie-Sumorok.png" alt="">
 		</a>
 	</div>
 </div>
@@ -104,11 +79,6 @@ After Travis finishes building your app, open the release draft it created and c
 
 	.author {
 		border-radius: 50%;
-	}
-
-	.icon {
-		width: 50px;
-		height: 50px;
 	}
 </style>
 
