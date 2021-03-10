@@ -70,6 +70,7 @@ After Travis finishes building your app, open the release draft it created and c
 ## Contributing
 If you make a version of [Visual Web](https://github.com/Charlie-Sumorok/Visual-Web),
 please add a table row to the [table of versions](https://github.com/Charlie-Sumorok/Visual-Web#Versions)
+
 ```py
 f'''
 	<tr>
