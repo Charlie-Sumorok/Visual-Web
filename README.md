@@ -50,6 +50,8 @@ After Travis finishes building your app, open the release draft it created and c
 					width="100px"
 				/>
 			</a>
+		</td>
+		<td>
 			<a
 				href="https://github.com/Charlie-Sumorok/Visual-Web-Electron" 
 				title="Electron">
@@ -81,6 +83,8 @@ f'''
 					width="100px"
 				/>
 			</a>
+		</td>
+		<td>
 			<a
 				href="https://github.com/{ACCOUNT_USERNAME}/{REPO_NAME}" 
 				title="Electron">
