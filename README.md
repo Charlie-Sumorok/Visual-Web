@@ -61,53 +61,35 @@ After Travis finishes building your app, open the release draft it created and c
 			</a>
 		</td>
 	</tr>
-	<tr>
-		<td align="center">
-			<a class="author"
-				href="https://github.com/Charlie-Sumorok"
-				title="Charlie">
-				<img class="author"
-					src="https://github.com/Charlie-Sumorok.png"
-					alt="Charlie"
-					width="100px"
-				/>
-			</a>
-			<a class="version-icon"
-				href="https://github.com/Charlie-Sumorok/Visual-Web-Electron"
-				title="Electron">
-				<img class="icon"
-					src="./images/Electron.png"
-					alt="Electron Version"
-					width="100px"
-				/>
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a class="author"
-				href="https://github.com/Charlie-Sumorok"
-				title="Charlie">
-				<img class="author"
-					src="https://github.com/Charlie-Sumorok.png"
-					alt="Charlie"
-					width="100px"
-				/>
-			</a>
-			<a class="version-icon"
-				href="https://github.com/Charlie-Sumorok/Visual-Web-Electron" 
-				title="Electron">
-				<img class="icon"
-					src="./images/Electron.png"
-					alt="Electron Version"
-					width="100px"
-				/>
-		</a>
-	</tr>
 </table>
 
 
 
 ## Contributing
-If you make a version of [Visual Web][]()(https://github.com/Charlie-Sumorok/Visual-Web),
-please add 
+If you make a version of [Visual Web](https://github.com/Charlie-Sumorok/Visual-Web),
+please add a table row to the [table of versions](https://github.com/Charlie-Sumorok/Visual-Web#Versions)
+```py
+f'''
+	<tr>
+		<td>
+			<a
+				href="https://github.com/{ACCOUNT_USERNAME}"
+				title="{ACCOUNT_NAME}">
+				<img
+					src="https://github.com/{ACCOUNT_USERNAME}"
+					alt="{ACCOUNT_NAME}"
+					width="100px"
+				/>
+			</a>
+			<a
+				href="https://github.com/{ACCOUNT_USERNAME}/{REPO_NAME}" 
+				title="Electron">
+				<img
+					src="./images/{TECHNOLOGY_OR_LANGUAGE}.png"
+					alt="{TECHNOLOGY_OR_LANGUAGE} Version"
+					width="100px"
+				/>
+		</a>
+	</tr>
+'''
+```
