@@ -56,7 +56,7 @@ After Travis finishes building your app, open the release draft it created and c
 				href="https://github.com/Charlie-Sumorok/Visual-Web-Electron" 
 				title="Electron">
 				<img
-					src="./images/Electron.png"
+					src="https://www.electronjs.org/images/favicon.ico"
 					alt="Electron Version"
 					width="100px"
 				/>
