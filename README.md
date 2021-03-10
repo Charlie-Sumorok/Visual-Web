@@ -60,11 +60,6 @@ After Travis finishes building your app, open the release draft it created and c
 					alt="Electron Version"
 					width="100px"
 				/>
-				<img
-					src="./images/Electron.svg"
-					alt="Electron Version"
-					width="100px"
-				/>
 			</a>
 		</td>
 	</tr>
